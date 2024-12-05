@@ -2,11 +2,13 @@
 Repository for federal data downloads
 
 ## Data to download: 
-NPDES and RCRA 
+National Pollutant Discharge Elimination System - NPDES (https://echo.epa.gov/trends/loading-tool/get-data/monitoring-data-download)
 
-ECHO (https://echo.epa.gov/tools/data-downloads#downloads)
+Resource Conservation and Recovery Act - RCRA (https://rcrapublic.epa.gov/rcra-public-export/)
 
-FRS – facilities  (https://www.epa.gov/frs/frs-query)
+Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/data-downloads#downloads)
+
+Facility Registry Services - FRS (https://www.epa.gov/frs/frs-query)
 
 Flood data (FEMA and NOAA) 
 
