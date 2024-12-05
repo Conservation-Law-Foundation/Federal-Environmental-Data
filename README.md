@@ -10,6 +10,8 @@ Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/dat
 
 Facility Registry Services - FRS (https://www.epa.gov/frs/frs-query)
 
+Safe Drinking Water Information System - SDWIS (https://enviro.epa.gov/envirofacts/sdwis/search)
+
 Flood data (FEMA and NOAA) 
 
 EJ Screen national and state (https://www.epa.gov/ejscreen/download-ejscreen-data) 
