@@ -16,10 +16,10 @@ Flood data (FEMA and NOAA)
 
 EJ Screen national and state (https://www.epa.gov/ejscreen/download-ejscreen-data) 
 Specifically, make sure that we download: 
-*PM2.5(ug/m3)
-*NATA Diesel PM (ug/m3) 
-*NATA Air Toxics Cancer Risk (risk per MM) 
-*NATA Respiratory Hazard Index 
+* PM2.5(ug/m3)
+* NATA Diesel PM (ug/m3) 
+* NATA Air Toxics Cancer Risk (risk per MM) 
+* NATA Respiratory Hazard Index 
 
 EPA Smart Location Database data to calculate transit frequency 
 
