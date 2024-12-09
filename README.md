@@ -15,6 +15,8 @@ Safe Drinking Water Information System - SDWIS (https://enviro.epa.gov/envirofac
 Flood data (FEMA and NOAA) 
 
 EJ Screen national and state (https://www.epa.gov/ejscreen/download-ejscreen-data) 
+* make sure that we download at the census tract level for New Hampshire
+
 Specifically, make sure that we download: 
 * PM2.5(ug/m3)
 * NATA Diesel PM (ug/m3) 
