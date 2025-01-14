@@ -6,9 +6,9 @@ National Pollutant Discharge Elimination System - NPDES (https://echo.epa.gov/tr
 
 Resource Conservation and Recovery Act - RCRA (https://rcrapublic.epa.gov/rcra-public-export/)
 
-Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/data-downloads#downloads)
+Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/data-downloads#downloads) --> done except NPDES and PFAS
 
-Facility Registry Services - FRS (https://www.epa.gov/frs/frs-query)
+Facility Registry Services - FRS (https://www.epa.gov/frs/frs-query) --> done
 
 Safe Drinking Water Information System - SDWIS (https://enviro.epa.gov/envirofacts/sdwis/search)
 
