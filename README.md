@@ -7,6 +7,13 @@ National Pollutant Discharge Elimination System - NPDES (https://echo.epa.gov/tr
 Resource Conservation and Recovery Act - RCRA (https://rcrapublic.epa.gov/rcra-public-export/)
 
 Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/data-downloads#downloads) --> done except NPDES and PFAS
+* ICIS-NPDES national Discharge Monitoring Report (DMR) datasets by year for Clean Water Act permitted dischargers going back 5 years
+* Effluent Violation Data by Jurisdiction would be nice also, for Region 1
+* Maybe this too, if you really think they'll be taking everything down: NPDES Master General Permits (ZIP)
+* Permit Limit and DMR Data by Jurisdiction maybe this for Region 1
+* Maybe also this? NPDES Catchment Indexing and Assessed Waters Download (ZIP) (135 MB)
+
+
 
 Facility Registry Services - FRS (https://www.epa.gov/frs/frs-query) --> done
 
