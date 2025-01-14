@@ -14,7 +14,7 @@ Safe Drinking Water Information System - SDWIS (https://enviro.epa.gov/envirofac
 
 Flood data (FEMA and NOAA) 
 
-EJ Screen national and state (https://www.epa.gov/ejscreen/download-ejscreen-data) 
+EJ Screen national and state (https://www.epa.gov/ejscreen/download-ejscreen-data) --> done
 * make sure that we download at the census tract level for New Hampshire
 
 Specifically, make sure that we download: 
@@ -23,6 +23,6 @@ Specifically, make sure that we download:
 * NATA Air Toxics Cancer Risk (risk per MM) 
 * NATA Respiratory Hazard Index 
 
-EPA Smart Location Database data to calculate transit frequency 
+EPA Smart Location Database data to calculate transit frequency --> done
 
 Basemap data (e.g. tiger line files) 
