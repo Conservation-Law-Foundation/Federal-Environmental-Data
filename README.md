@@ -2,11 +2,11 @@
 Repository for federal data downloads
 
 ## Data to download: 
-National Pollutant Discharge Elimination System - NPDES (https://echo.epa.gov/trends/loading-tool/get-data/monitoring-data-download)
+National Pollutant Discharge Elimination System - NPDES (https://echo.epa.gov/trends/loading-tool/get-data/monitoring-data-download)--> done (through ECHO site)
 
-Resource Conservation and Recovery Act - RCRA (https://rcrapublic.epa.gov/rcra-public-export/)
+Resource Conservation and Recovery Act - RCRA (https://rcrapublic.epa.gov/rcra-public-export/)--> done (through ECHO site)
 
-Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/data-downloads#downloads) --> done except NPDES and PFAS
+Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/data-downloads#downloads) --> done 
 * ICIS-NPDES national Discharge Monitoring Report (DMR) datasets by year for Clean Water Act permitted dischargers going back 5 years
 * Effluent Violation Data by Jurisdiction would be nice also, for Region 1
 * Maybe this too, if you really think they'll be taking everything down: NPDES Master General Permits (ZIP)
@@ -18,7 +18,7 @@ Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/dat
 
 Facility Registry Services - FRS (https://www.epa.gov/frs/frs-query) --> done
 
-Safe Drinking Water Information System - SDWIS (https://enviro.epa.gov/envirofacts/sdwis/search)
+Safe Drinking Water Information System - SDWIS (https://enviro.epa.gov/envirofacts/sdwis/search) --> done (through ECHO site)
 
 Flood data (FEMA and NOAA) 
 
