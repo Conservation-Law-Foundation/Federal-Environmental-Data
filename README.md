@@ -12,6 +12,7 @@ Enforcement and Compliance History Online - ECHO (https://echo.epa.gov/tools/dat
 * Maybe this too, if you really think they'll be taking everything down: NPDES Master General Permits (ZIP)
 * Permit Limit and DMR Data by Jurisdiction maybe this for Region 1
 * Maybe also this? NPDES Catchment Indexing and Assessed Waters Download (ZIP) (135 MB)
+* Region 2 in the Lake Champlain watershed and specifically, Plattsburgh, Chazy, and Point Au Roche over in NY. 
 
 
 
